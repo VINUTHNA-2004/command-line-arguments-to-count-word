@@ -20,7 +20,7 @@ now iterate through the variable and increase the counyt and print the count val
 ## PROGRAM:
 import sys fp = open(sys.argv[1]) as fp A = fp.read() count=0 V=A.split() for i in V: count+=1 print("count",V) print("count",count)
 ### OUTPUT:
-![output](https://github.com/VINUTHNA-2004/command-line-arguments-to-count-word/commit/a6e63769dbba3d63f8d75f1460dfc07e962a8f3a)?raw=true
+![output](https://github.com/VINUTHNA-2004/command-line-arguments-to-count-word/blob/main/co.PNG?raw=true)
 
 
 ## RESULT:
